@@ -19,7 +19,7 @@ Anata no Anime no Tomodachi (Your Anime Friend) is a chat-based web application 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/anime-quote-chat.git
+   git clone https://github.com/yousuftomal/anime-quote-chat.git
    ```
 
 2. Navigate to the project directory:
@@ -72,5 +72,4 @@ If you have any questions, feel free to reach out to [S.M. Yousuf Iqbal Tomal] a
 
 ## Acknowledgments
 
-- Thanks to all contributors who have helped to build and improve this project.
 - Special thanks to the anime community for inspiration and support.
