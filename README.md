@@ -19,12 +19,12 @@ Anata no Anime no Tomodachi (Your Anime Friend) is a chat-based web application 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/anata-no-anime-no-tomodachi.git
+   git clone https://github.com/yourusername/anime-quote-chat.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd anata-no-anime-no-tomodachi
+   cd anime-quote-chat
    ```
 
 3. Install the required dependencies:
@@ -60,8 +60,17 @@ The application uses a CSV file (`lessreal-data.csv`) containing anime quotes. E
 
 ## Contributing
 
-Contributions to improve Anata no Anime no Tomodachi are welcome. Please feel free to submit a Pull Request.
+Contributions to improve Anata no Anime no Tomodachi are welcome. Please feel free to submit a Pull Request to the `main` branch.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions, feel free to reach out to [S.M. Yousuf Iqbal Tomal] at [yousuf.tomal.0@gmail.com].
+
+## Acknowledgments
+
+- Thanks to all contributors who have helped to build and improve this project.
+- Special thanks to the anime community for inspiration and support.
